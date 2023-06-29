@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 .DS_Store
+logs_dir/
+test_results/
+model_save_dir/adaptive_z_thresholding
